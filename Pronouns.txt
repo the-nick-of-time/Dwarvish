@@ -1,0 +1,7 @@
+				 |		First			|		 Second	  |    Third
+				 | Inc		Exc 	| Fam		 For  | Per    Non
+Singular | eng   	N/A		| cu		 vu   |  sa    tse
+Plural	 | eing  zheing	| juzh	futsh | shek  tshek
+
+Reflexive: vek-
+Possessive: kun-

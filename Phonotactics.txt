@@ -1,0 +1,18 @@
+"ai", "ei", "oi", "ui" are i-glide diphthongs.
+"ii" is instead /i/.
+
+If there are two of the same vowel in a row, a glottal stop is inserted between them (except for i, which follows the divergent rule above).
+
+Unless a word consists of only one syllable, it cannot begin with a vowel or semivowel.
+
+The combination sj is often actualized as 'sh', though this is not to be desired.
+
+If there would exist a "uo" cluster, the 'u' is dropped.
+
+The 'f'->'th'/'v'->'dh' change introduced by the humans happens before frony vowels and word-finally. If the sound stops being word-final due to the addition of suffixes, the sound reverts to 'f' or 'v'. This change is often omitted by new speakers and has been gaining inertia.
+
+'n' can never happen before a velar, while 'ng' can never happen before a front vowel.
+
+The "hh" cluster becomes instead "xh".
+
+An "rr" cluster becomes a trilled 'r'.
