@@ -16,3 +16,5 @@ The 'f'->'th'/'v'->'dh' change introduced by the humans happens before frony vow
 The "hh" cluster becomes instead "xh".
 
 An "rr" cluster becomes a trilled 'r'.
+
+Stress falls on the penultimate syllable in most polysyllabic words. It may instead move to the final syllable if the word ends in ʃ, tʃ, or their voiced versions.

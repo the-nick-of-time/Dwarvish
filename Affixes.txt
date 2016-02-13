@@ -1,0 +1,12 @@
+DERIVATIONAL
+-da is used on any other word to produce a noun.
+	verb tekta "live" -> noun tektada "life"
+	adjective mæltjom "serene" -> noun mæltjomda "serenity" 
+
+-tsom forms an adjective from a noun. If you wish to make an adjective from a verb, you need to first transform it to a noun using -da.
+	noun 
+	verb tsumt "think" -> adjective tsumdatsom "deliberate"
+
+
+INFLECTIONAL
+vii- is the negative affix. 

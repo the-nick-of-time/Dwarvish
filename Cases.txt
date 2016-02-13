@@ -4,4 +4,17 @@ Nominative is formed by the prefix ol-.
 It most often marks the agent of a sentence in the modern language but was limited to referring to the subject in the ancient forms.
 
 Accusative is formed by hr-. This is actualized as an unvoiced r most often.
-Like the nominative, it began marking only the grammatical subject but morphed over time into marking of the patient.
+Like the nominative, it began marking only the grammatical object but morphed over time into marking of the patient.
+
+Genitive is formed with ku-. 
+
+Dative is formed with tenn-.
+
+Instrumental is formed by bos-. It is applied to the (always non-agentive) instrument of an action. If you have a case where you have to choose between instrumental and nominative, use nominative.
+
+Locative is formed by rii-. It signifies that the happenings of a sentence occur within the marked noun.
+Rii is also a separate word meaning "in", for those times where you want that.
+
+Allative is formed with voi-. It signifies motion towards an object, or being at the edge of something.
+
+Ablative is formed by vau-. It signifies motion away.
