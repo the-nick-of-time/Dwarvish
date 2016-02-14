@@ -1,29 +1,31 @@
 There are five proper verb tenses: future, present, present continual, recent past, and distant past. There are also infinitive and participle forms.
 
-Future is created using -zhel.
+Future is created using -ʒel.
 This can refer to any action that has not yet happened.
+reŋkla "sleep" -> reŋklaʒel "will sleep"
 
 Present is the most general form of a verb, made with just the unmarked stem.
 It can be used just about anywhere the other tenses don't cover and make sense.
 
 Present continuative is made by reduplicating the word up through the first vowel (discarding any non-initial approximants that appear in the second copy) and also suffixing -inn.
 For instance:
-tekta "live" becomes tetektainn "is living"
-tsumt "think" becomes tsutsumtinn "is thinking"
-kjen "meet" becomes kjekeninn "is meeting"
-jond "control" becomes jojondinn "is controlling"
+tekta "live" -> tetektainn "is living"
+tsumt "think" -> tsutsumtinn "is thinking"
+kjen "meet" -> kjekeninn "is meeting"
+jond "control" -> jojondinn "is controlling"
 
 The recent past tense conveys that the action in question is complete, but its effects are immediately relevant. It is made by suffixing -tjok or -jok, depending on relative euphony.
 What constitutes "immediately relevant" is rather abstract and highly contextual.
 For instance:
-zhoga "eat" becomes zhogatjok "has eaten recently enough to be sated still"
+ʒoga "eat" -> ʒogatjok "has eaten recently enough to be sated still"
 
 The distant past tense tells the listener that the effects of the action are not in play currently, that the original agents of the action are no longer able to do that action, or simply that the action happened a long time ago.
+The only case where this tense *must* unabiguously be used is the second, where the agents are not currently able to perform the action. This may be due to at least one of the agents being disabled or dead, or it may be that the action is temporally bound and cannot be repeated.
 It is made with the cirumfix to- -ak.
 Examples:
-tokarak olfrengjoir rat sveltoidzh rat kushek: The eight mages made eight rings
+tokarak olfreŋjoir rat sveltoidʒ rat kuʃek: The eight mages made eight rings
 This usage of the distant past qualifies under two of the criteria. First, the action that is referred to (a point of mythologized history) happened about 700 years ago. In addition all of the mages are dead (probably) and are unable to do the action again.
-hrsa tosolinak oleng: I have not seen that person lately
+hrsa tosolinak oleŋ: I have not seen that person lately
 
 The active participle is formed using -inn.
 The similarity to the continuative has its analog in English, where we do not morphologically discriminate.
@@ -35,6 +37,6 @@ Infinitive is constructed using sha-.
 
 Conjugations of von
 PRESENT			PRESENT CONTINUATIVE			NEAR PAST			REMOTE PAST			FUTURE		
-von								viin									tjok					tovonak				vozhel
+  von							viin									tjok					tovonak				vozhel
 VERBAL NOUN			ACTIVE PARTICIPLE			PASSIVE PARTICIPLE			INFINITIVE
-		voda						voinn										veln								shavan
+		voda						voinn										veln								shavn

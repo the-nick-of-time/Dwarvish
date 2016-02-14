@@ -1,12 +1,30 @@
 DERIVATIONAL
+Derivational affixes are evaluated from the inside out.
+
 -da is used on any other word to produce a noun.
 	verb tekta "live" -> noun tektada "life"
+	verb
 	adjective mæltjom "serene" -> noun mæltjomda "serenity" 
 
 -tsom forms an adjective from a noun. If you wish to make an adjective from a verb, you need to first transform it to a noun using -da.
-	noun 
-	verb tsumt "think" -> adjective tsumdatsom "deliberate"
+The produced adjectives can vary from extremely literal to abstract. Most often the adjective deals with the core or most recognizable feature of the original object.
+	noun çel "beauty" -> adjective çeltsom "beautiful"
+	noun kva "water" -> adjective kvatsom "wet"
+	verb tsumt "think" -> adjective tsumdatsom "deliberate (describing a person)"
+
+-vha produces a verb from another part of speech. The interpretation of the result is usually "to bring *x* to pass".
 
 
 INFLECTIONAL
-vii- is the negative affix. 
+If there are multiple types of affixes on one word, inflections are applied last.
+
+vii- is the negative affix. It can be freely applied to verbs and adjectives, producing exactly the words you would expect.
+Applying it to a noun instead most often produces an adjective.
+	verb kraukh "change" -> verb viikraukh "stagnate"
+	verb reŋkla	"sleep" -> verb viireŋkla	"wake"
+	adjective mjaa "good" -> adjective viimjaa "not good"
+	noun del "sound" -> adjective viidel "silent"
+
+
+EXAMPLES
+verb sulvket "bend" -> adjective sulvketsom "flexible" -> adjective viisulvketsom "rigid"
