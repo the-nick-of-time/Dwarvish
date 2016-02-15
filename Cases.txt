@@ -6,7 +6,7 @@ It most often marks the agent of a sentence in the modern language but was limit
 Accusative is formed by hr-. This is actualized as an unvoiced r most often.
 Like the nominative, it began marking only the grammatical object but morphed over time into marking of the patient.
 
-Genitive is formed with ku-. 
+Genitive is formed with ku-. It inflects the possessor of the object or quality.
 
 Dative is formed with tenn-.
 
@@ -15,6 +15,7 @@ Instrumental is formed by bos-. It is applied to the (always non-agentive) instr
 Locative is formed by rii-. It signifies that the happenings of a sentence occur within the marked noun.
 Rii is also a separate word meaning "in", for those times where you want that.
 
-Allative is formed with voi-. It signifies motion towards an object, or being at the edge of something.
+Allative is formed with voi-. It signifies motion towards an object, or being at the edge of something. One common usage is to mean "upon", in a somewhat ephemeral sense.
+
 
 Ablative is formed by vau-. It signifies motion away.

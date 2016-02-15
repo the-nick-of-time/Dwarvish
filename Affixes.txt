@@ -3,17 +3,17 @@ Derivational affixes are evaluated from the inside out.
 
 -da is used on any other word to produce a noun.
 	verb tekta "live" -> noun tektada "life"
-	verb
+	verb 
 	adjective mæltjom "serene" -> noun mæltjomda "serenity" 
 
--tsom forms an adjective from a noun. If you wish to make an adjective from a verb, you need to first transform it to a noun using -da.
+-tsom forms an adjective from a noun. If the root word ends in -d, the t is merged and the s becomes voiced so the produced word will look like -dzom. If you wish to make an adjective from a verb, you need to first transform it to a noun using -da.
 The produced adjectives can vary from extremely literal to abstract. Most often the adjective deals with the core or most recognizable feature of the original object.
 	noun çel "beauty" -> adjective çeltsom "beautiful"
 	noun kva "water" -> adjective kvatsom "wet"
 	verb tsumt "think" -> adjective tsumdatsom "deliberate (describing a person)"
 
 -vha produces a verb from another part of speech. The interpretation of the result is usually "to bring *x* to pass".
-
+	noun palli "end" -> verb pallivha "bring to an end"
 
 INFLECTIONAL
 If there are multiple types of affixes on one word, inflections are applied last.
@@ -28,3 +28,5 @@ Applying it to a noun instead most often produces an adjective.
 
 EXAMPLES
 verb sulvket "bend" -> adjective sulvketsom "flexible" -> adjective viisulvketsom "rigid"
+noun çel "beauty" ->  adjective çeltsom "beautiful" -> noun çeltsomda "beautiful one"
+noun 

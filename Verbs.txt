@@ -33,10 +33,10 @@ The similarity to the continuative has its analog in English, where we do not mo
 The passive participle uses -eln. 
 This formation can be seen in the name of the central mountain range, the voreln (upraised).
 
-Infinitive is constructed using sha-.
+Infinitive is constructed using ʃa-.
 
 Conjugations of von
-PRESENT			PRESENT CONTINUATIVE			NEAR PAST			REMOTE PAST			FUTURE		
-  von							viin									tjok					tovonak				vozhel
+PRESENT			PRESENT CONTINUATIVE			NEAR PAST		REMOTE PAST			FUTURE		
+  von							viin									tjok				tovonak				voʒel
 VERBAL NOUN			ACTIVE PARTICIPLE			PASSIVE PARTICIPLE			INFINITIVE
-		voda						voinn										veln								shavn
+		voda						  voinn									veln								 ʃavn
