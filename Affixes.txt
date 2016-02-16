@@ -18,6 +18,22 @@ The produced adjectives can vary from extremely literal to abstract. Most often 
 INFLECTIONAL
 If there are multiple types of affixes on one word, inflections are applied last.
 
+Dwarvish has two numbers: singular and plural.
+Pluralization of nouns or adjectives happens by means of an -i- infix. It is applied like this:
+Look at the last vowel in the word. 
+If this vowel is not word-final, infix an i after it. 
+If the vowel is word-final and it is not the only vowel in the word, infix an i after the next-to-last vowel. 
+If the vowel is word-final and the only vowel in the word, add an i after it.
+This becomes complicated when the vowel chosen by this algorithm is actually two vowels, as in the adjective mjaa "good" or the noun laun "sea". These cases are generally irregular, but most often just have the second vowel of the cluster be replaced by the i.
+Adjectives are inflected in number 
+	noun dovvt "finger" -> doivvt "fingers"
+	noun voda "being" -> voida "beings"
+	noun ʒe "night" -> ʒei "nights"
+	adjective mjaa "good" -> mjai "good, of multiple people"
+	noun taaz (a stimulant) -> tajaz "multiple taaz plants"
+	noun laun "sea" -> lain "seas"
+
+
 vii- is the negative affix. It can be freely applied to verbs and adjectives, producing exactly the words you would expect.
 Applying it to a noun instead most often produces an adjective.
 	verb kraukh "change" -> verb viikraukh "stagnate"

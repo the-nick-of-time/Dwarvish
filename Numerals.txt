@@ -1,0 +1,11 @@
+The dwarves have a base 10 counting system.
+
+When saying a number, the order of each digit is said, followed by the digit.
+khaiʃ krem tjun rat tun tun = three hundred eighty one.
+In conversational speech, the order is often dropped and the number would just be said "three eight one", krem rat tun.
+
+The glyphs for the numerals are based on the ancient practice of using counting sticks, which have three notches that pass around their circumfrence. You count on it by moving your thumb along one side and a finger along the other.
+ASCII representations of the glyphs 0-9:
+    ___  __    __     __                   __             
+|    |    |_    |    _|    _|_    _|       |      |_     | 
+|    |    |     |_    |     |      |_     _|     _|     _|_
